@@ -1,1 +1,1 @@
-# web_scrapper1
+# Ineuron_web and image scrapper
